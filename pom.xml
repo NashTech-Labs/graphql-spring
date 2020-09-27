@@ -43,7 +43,6 @@
             <artifactId>guava</artifactId>
             <version>23.5-jre</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.objectstyle.graphql.test/graphql-test -->
         <dependency>
             <groupId>org.objectstyle.graphql.test</groupId>
             <artifactId>graphql-test</artifactId>

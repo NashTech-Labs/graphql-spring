@@ -6,6 +6,10 @@ This project will help you connect with GraphQL using Maven Spring-Boot applicat
 
 - Maven
 
+**Blog for this can be found here:**   
+[Beginner’s Guide to GraphQL with Spring Boot][https://blog.knoldus.com/beginners-guide-to-graphql-with-spring-boot/]
+
+
 **Command to start the project**  
 `mvn spring-boot:run`    
   
@@ -37,3 +41,6 @@ Route(Method - POST) : http://localhost:8080/graphql
 RawData(json): {
                    "query":"query{songById(id: \\\"song-4\\\"){uid,Name}}"
                }
+
+
+[https://blog.knoldus.com/beginners-guide-to-graphql-with-spring-boot/]: https://blog.knoldus.com/beginners-guide-to-graphql-with-spring-boot/
